@@ -1,0 +1,35 @@
+[
+  {
+    "member_id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "account_type": "Checking",
+    "account_id": 1001,
+    "balance": 2450.75,
+    "last_transaction_type": "Deposit",
+    "last_transaction_amount": 1500.00,
+    "last_transaction_date": "2025-01-15"
+  },
+  {
+    "member_id": 2,
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "account_type": "Checking",
+    "account_id": 1002,
+    "balance": 1200.00,
+    "last_transaction_type": "Deposit",
+    "last_transaction_amount": 1200.00,
+    "last_transaction_date": "2025-01-05"
+  },
+  {
+    "member_id": 3,
+    "name": "Charlie Lee",
+    "email": "charlie.lee@example.com",
+    "account_type": "Savings",
+    "account_id": 1003,
+    "balance": 5000.00,
+    "last_transaction_type": "Deposit",
+    "last_transaction_amount": 5000.00,
+    "last_transaction_date": "2025-02-01"
+  }
+]
