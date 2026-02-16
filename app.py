@@ -9,6 +9,6 @@ st.write("Hello from Streamlit Community Cloud!")
 with open('data.json') as f:
     data=json.load(f)
 
-df= pd.Dataframe(data) 
+df= pd.DataFrame(data) 
 
 st.dataframe(df)
